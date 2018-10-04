@@ -17,3 +17,7 @@ nav ul {
 .wrapper {
   background-color: #eee8d5;
 }
+
+#contents, #facts, #favs, #types {
+  color: #fff;
+}
