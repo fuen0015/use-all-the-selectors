@@ -25,3 +25,7 @@ nav ul {
 main > .dfn {
   background-color: #b58900;
 }
+
+div > strong {
+  color: #fff;
+}
