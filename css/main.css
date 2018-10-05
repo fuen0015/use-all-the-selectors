@@ -21,3 +21,7 @@ nav ul {
 #contents, #facts, #favs, #types {
   color: #fff;
 }
+
+main > .dfn {
+  background-color: #b58900;
+}
