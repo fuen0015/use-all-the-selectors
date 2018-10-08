@@ -31,17 +31,29 @@ div > strong {
 }
 
 ul a {
-  background-color: #719e07
+  background-color: #719e07;
 }
 
 .no-highlight {
-  background-color: #2694d8
+  background-color: #2694d8;
 }
 
 ol li:first-child {
-  color: #719e47
+  color: #719e47;
 }
 
 ol li:last-child {
-  color: #2aa198
+  color: #2aa198;
+}
+
+.types :nth-child(odd) {
+  background-color: #657ba3;
+}
+
+.types :nth-child(even) {
+  background-color: #586e75;
+}
+
+.types :nth-child(3n) {
+  background-color: #d04b16;
 }
