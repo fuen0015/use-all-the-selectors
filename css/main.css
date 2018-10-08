@@ -19,7 +19,7 @@ nav ul {
 }
 
 #contents, #facts, #favs, #types {
-  color: #fff;
+  color: #93a1a1;
 }
 
 main > .dfn {
@@ -28,4 +28,16 @@ main > .dfn {
 
 div > strong {
   color: #fff;
+}
+
+ul a {
+  background-color: #719e07
+}
+
+.no-highlight {
+  background-color: #2694d8
+}
+
+ol li:first-child {
+  color: #719e47
 }
